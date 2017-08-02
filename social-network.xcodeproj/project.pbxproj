@@ -64,6 +64,13 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
+		0375E0FA1F3104F800E897CC /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
 		038DB1371F3088550049712D = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +92,7 @@
 		038DB1421F3088550049712D /* social-network */ = {
 			isa = PBXGroup;
 			children = (
+				0375E0FA1F3104F800E897CC /* Resource */,
 				03065D0F1F308D050016E1B9 /* Model */,
 				03065D0E1F308CFE0016E1B9 /* View */,
 				03065D0D1F308CF60016E1B9 /* Controller */,
